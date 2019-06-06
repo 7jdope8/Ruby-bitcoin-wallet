@@ -13,7 +13,7 @@ Program create random bitcoin wallet and save it to txt file in dist folder.
 # Usage:
 
 ```
-go to dist folder and execute btc
+execute btc
 
 ```
 
