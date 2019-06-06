@@ -6,7 +6,7 @@ Work's on windows executable.
 
 # Bitcoin Wallet Generator -BWG
 ```
-Program create random bitcoin wallet and save it to txt file in dist folder.
+Program create random bitcoin wallet and save it to txt file.
 
 ```
 
