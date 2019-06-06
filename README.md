@@ -4,7 +4,7 @@
 Work's on windows executable.
 ```
 
-# Bitcoin Wallet Generator -BWG
+# GUI-Bitcoin Wallet Generator-BWG
 ```
 Program create random bitcoin wallet and save it to txt file.
 
