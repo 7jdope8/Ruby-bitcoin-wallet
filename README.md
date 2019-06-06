@@ -1,11 +1,7 @@
-# Python 3+
+# GUI-Bitcoin Wallet Generator-BWG
 
 ```
 Work's on windows executable.
-```
-
-# GUI-Bitcoin Wallet Generator-BWG
-```
 Program create random bitcoin wallet and save it to txt file.
 
 ```
