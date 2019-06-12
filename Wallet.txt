@@ -1,0 +1,18 @@
+Wallet: 
+
+Privatekey: B77748DD8DFC3B765E61173FE41514C03BB4DE51B298EBA9B2F37A8B249CA3E5
+Publickey:  04ba4070d0e21cdf2e2c1036ab1fc9b4e383447c1af20943b3ef84527cad5c8b5ccd928e3ec45a232ece1a29aeffced0bd7bd726b573d015b3c999a2bfc8cc4a0f
+Address:    1FvmafciDGtgvuwmzV97f46owwiW38w1eo
+WIF:        5KD5yPnb1JVme1zEsQjMXBwrtFak1uQpGDdho6HDNfTVaZDujGH
+
+-------------------------------------------------------------------------------------------------------------
+
+Wallet: 
+
+Privatekey: 84176AAF2AB5BFAC5351482A4D5C6DF098509ADCD77ABB6B8345C8B11BCC56B1
+Publickey:  04cdd3cbb36d397233185520794ff8841e2fcb8096a3a421a212841b3468c7273cdd9a5b7905039c0f5fcc1670842c120efa4581e52ad5fdf86ecc7ddd35f333eb
+Address:    15EU6fetnzBGtbE8bEV9w9iMZ5xYAzDS9u
+WIF:        5JpTgSgrB866SBhULzT8wZELqjDCQjaFYKGjyQoDDg44zaVPtEg
+
+-------------------------------------------------------------------------------------------------------------
+
