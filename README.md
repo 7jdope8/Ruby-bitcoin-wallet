@@ -1,17 +1,13 @@
 # GUI-Bitcoin Wallet Generator-BWG
 
-```
-Work's on windows executable.
-Program create random bitcoin wallet and save it to txt file.
+Work's in windows executable.
+Program generate bitcoin wallet and save it to txt file.
 
-```
 
 # Usage:
 
-```
-execute btc
+btc.exe
 
-```
 
 # Sample:
 
