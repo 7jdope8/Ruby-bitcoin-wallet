@@ -15,6 +15,8 @@ execute btc
 
 # Sample:
 
+[Imgur](https://i.imgur.com/6CnV1Te.png)
+
 ```
 Wallet: 
 
