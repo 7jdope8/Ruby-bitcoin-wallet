@@ -1,5 +1,11 @@
 # GUI-Bitcoin Wallet Generator-BWG
 
+Work's on windows 7, 8, 8.1, 10 x64.
+
+Requirements:
+
+Python3.7
+
 Work's in windows executable.
 Program generate bitcoin wallet and save it to txt file.
 
