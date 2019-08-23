@@ -2,7 +2,9 @@
 
 Work's on windows 7, 8, 8.1, 10 x64.
 
-Program generate bitcoin wallet and save it to txt file.
+Program offline generate bitcoin wallet and save it to txt file.
+
+Address and private key are generated anonymously
 
 
 # Usage:
