@@ -2,6 +2,8 @@
 
 Work's on windows 7, 8, 8.1, 10 x64.
 
+BWG is easy to use yust double clicl btc.exe.
+
 Program offline generate bitcoin wallet and save it to txt file.
 
 Address and private key are generated anonymously
