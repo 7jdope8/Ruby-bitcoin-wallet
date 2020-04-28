@@ -1,6 +1,6 @@
 Ruby Bitcoin Wallet
 ```
-Program create random wallet and save it to txt file folder.
+Ruby wallet show bitcoin price, create random wallet and save it to txt file folder.
 
 ```
 
@@ -22,3 +22,4 @@ Address:    1LVxWJg34vjgE5mCDm1Sv7taWHizT9HSWr
 WIF:        5J5PbUjzZuEcznEFdVKQE4sCyaYvhtmzDtRYT3kP3rM5FYWVxz7
 ```
 ![Ruby wallet](no.png)
+![Ruby wallet](no2.pgn)
