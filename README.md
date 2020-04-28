@@ -22,4 +22,4 @@ Address:    1LVxWJg34vjgE5mCDm1Sv7taWHizT9HSWr
 WIF:        5J5PbUjzZuEcznEFdVKQE4sCyaYvhtmzDtRYT3kP3rM5FYWVxz7
 ```
 ![Ruby wallet](no.png)
-![Ruby wallet](no2.pgn)
+![Ruby wallet](no2.png)
