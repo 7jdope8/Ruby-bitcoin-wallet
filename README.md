@@ -1,17 +1,17 @@
-# Ruby Bitcoin Wallet
+Ruby Bitcoin Wallet
 ```
 Program create random wallet and save it to txt file folder.
 
 ```
 
-# Usage:
+Usage:
 
 ```
 start Ruby-wallet.exe
 
 ```
 
-# Sample:
+Sample:
 
 ```
 Wallet: 
