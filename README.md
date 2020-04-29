@@ -1,14 +1,5 @@
 Ruby Bitcoin Wallet
-```
-Ruby wallet show bitcoin price, create random wallet and save it to txt file folder.
-Work on windows.
-```
-
-Usage:
-
-```
-start Ruby-wallet.exe
-
+![Ruby wallet]/*(n.png)
 ```
 
 Sample:
