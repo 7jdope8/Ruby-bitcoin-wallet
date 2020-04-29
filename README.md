@@ -1,5 +1,5 @@
 Ruby Bitcoin Wallet
-![Ruby wallet]/(n.png)
+![Ruby wallet](n.png)
 ```
 
 Sample:
