@@ -1,5 +1,5 @@
 Ruby Bitcoin Wallet
-![Ruby wallet](1.gif)
+![Ruby wallet](n1.gif)
 
 Usage:
 ```
