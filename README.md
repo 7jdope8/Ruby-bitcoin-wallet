@@ -1,7 +1,10 @@
 Ruby Bitcoin Wallet
 ![Ruby wallet](n.png)
-```
 
+Usage:
+```
+start Ruby-wallet.exe
+```
 Sample:
 
 ```
