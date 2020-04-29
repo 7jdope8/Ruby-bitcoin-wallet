@@ -1,5 +1,5 @@
 Ruby Bitcoin Wallet
-![Ruby wallet](n.png)
+![Ruby wallet](Webp.net-gifmaker (1).gif)
 
 Usage:
 ```
