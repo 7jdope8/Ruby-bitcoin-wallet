@@ -36,7 +36,6 @@ WIF:        5J5PbUjzZuEcznEFdVKQE4sCyaYvhtmzDtRYT3kP3rM5FYWVxz7
 ![Ruby wallet](no2.png)
 
 
-Donate small amount of Btc to support my project.
-33hJyoqkCfQQMABZ4ea1DxqwwZfK5iPrVZ
+Donate small amount of Btc to support my project 33hJyoqkCfQQMABZ4ea1DxqwwZfK5iPrVZ
 
 
