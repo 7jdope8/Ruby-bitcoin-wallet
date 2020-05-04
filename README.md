@@ -12,7 +12,7 @@ cd Ruby-bitcoin-wallet
 
 pip3 install -r requirements.txt
 
-python3 Ruby-wallet.py on windows python3 -m Ruby-wallet.py
+python3 Ruby-wallet.py
 
 
 
