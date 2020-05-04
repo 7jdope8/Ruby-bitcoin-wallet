@@ -2,8 +2,25 @@ Ruby Bitcoin Wallet
 ![Ruby wallet](n1.gif)
 
 Usage:
+
 ```
+Python3:
+
+git clone https://github.com/adrijano/Ruby-bitcoin-wallet.git
+
+cd Ruby-bitcoin-wallet
+
+pip3 install -r requirements.txt
+
+python3 Ruby-wallet.py on windows python3 -m Ruby-wallet.py
+
+
+
+Windows:
+
+
 start Ruby-wallet.exe
+
 ```
 Sample:
 
